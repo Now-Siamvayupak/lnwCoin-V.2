@@ -1,0 +1,262 @@
+[
+  {
+    "cc": "inr",
+    "name": "Indian rupee",
+    "symbol": "₹"
+  },
+  {
+    "cc": "btc",
+    "name": "Bitcoin",
+    "symbol": "₿"
+  },
+  {
+    "cc": "eth",
+    "name": "Ethereum",
+    "symbol": "Ξ"
+  },
+  {
+    "cc": "ltc",
+    "name": "Litecoin",
+    "symbol": "Ł"
+  },
+  {
+    "cc": "bch",
+    "name": "Bitcoin cash",
+    "symbol": "Ƀ"
+  },
+  {
+    "cc": "bnb",
+    "name": "Binance",
+    "symbol": "BNB"
+  },
+  {
+    "cc": "eos",
+    "name": "EOS",
+    "symbol": "EOS"
+  },
+  {
+    "cc": "xrp",
+    "name": "XRP",
+    "symbol": "XRP"
+  },
+  {
+    "cc": "xlm",
+    "name": "Lumens",
+    "symbol": "$"
+  },
+  {
+    "cc": "link",
+    "name": "Chain link",
+    "symbol": "XLM"
+  },
+  {
+    "cc": "dot",
+    "name": "Polkadot",
+    "symbol": "DOT"
+  },
+  {
+    "cc": "yfi",
+    "name": "Yearn.finance",
+    "symbol": "YFI"
+  },
+  {
+    "cc": "usd",
+    "name": "US dollar",
+    "symbol": "$"
+  },
+  {
+    "cc": "aed",
+    "symbol": "د.إ;",
+    "name": "UAE dirham"
+  },
+  {
+    "cc": "ars",
+    "name": "Argentine peso",
+    "symbol": "$"
+  },
+  {
+    "cc": "aud",
+    "name": "Australian dollar",
+    "symbol": "$"
+  },
+  {
+    "cc": "eur",
+    "name": "Euro",
+    "symbol": "€"
+  },
+  {
+    "cc": "bdt",
+    "name": "Bangladeshi taka",
+    "symbol": "৳"
+  },
+  {
+    "cc": "czk",
+    "name": "Czech koruna",
+    "symbol": "Kč"
+  },
+  {
+    "cc": "gbp",
+    "name": "British pound",
+    "symbol": "£"
+  },
+  {
+    "cc": "bhd",
+    "symbol": ".د.ب",
+    "name": "Bahraini dinar"
+  },
+  {
+    "cc": "bmd",
+    "name": "Bermudian dollar",
+    "symbol": "BD$"
+  },
+  {
+    "cc": "brl",
+    "name": "Brazilian real",
+    "symbol": "R$"
+  },
+  {
+    "cc": "cad",
+    "name": "Canadian dollar",
+    "symbol": "$"
+  },
+  {
+    "cc": "chf",
+    "symbol": "Fr.",
+    "name": "Swiss franc"
+  },
+  {
+    "cc": "clp",
+    "name": "Chilean peso",
+    "symbol": "$"
+  },
+  {
+    "cc": "cny",
+    "name": "Chinese/Yuan renminbi",
+    "symbol": "¥"
+  },
+  {
+    "cc": "try",
+    "name": "Turkish lira",
+    "symbol": "TRY"
+  },
+  {
+    "cc": "hkd",
+    "name": "Hong Kong dollar",
+    "symbol": "HK$"
+  },
+  {
+    "cc": "huf",
+    "name": "Hungarian forint",
+    "symbol": "Ft"
+  },
+  {
+    "cc": "idr",
+    "name": "Indonesian rupiah",
+    "symbol": "Rp"
+  },
+  {
+    "cc": "ils",
+    "name": "Israeli new sheqel",
+    "symbol": "₪"
+  },
+  {
+    "cc": "jpy",
+    "name": "Japanese yen",
+    "symbol": "¥"
+  },
+  {
+    "cc": "krw",
+    "name": "South Korean won",
+    "symbol": "W"
+  },
+  {
+    "cc": "lkr",
+    "name": "Sri Lankan rupee",
+    "symbol": "Rs"
+  },
+  {
+    "cc": "mxn",
+    "name": "Mexican peso",
+    "symbol": "$"
+  },
+  {
+    "cc": "myr",
+    "name": "Malaysian ringgit",
+    "symbol": "RM"
+  },
+  {
+    "cc": "ngn",
+    "name": "Nigerian naira",
+    "symbol": "₦"
+  },
+  {
+    "cc": "nok",
+    "name": "Norwegian krone",
+    "symbol": "kr"
+  },
+  {
+    "cc": "nzd",
+    "name": "New Zealand dollar",
+    "symbol": "NZ$"
+  },
+  {
+    "cc": "php",
+    "name": "Philippine peso",
+    "symbol": "₱"
+  },
+  {
+    "cc": "pkr",
+    "name": "Pakistani rupee,",
+    "symbol": " Rs."
+  },
+  {
+    "cc": "pln",
+    "name": "Polish zloty",
+    "symbol": "zł"
+  },
+  {
+    "cc": "rub",
+    "name": "Russian ruble",
+    "symbol": "R"
+  },
+  {
+    "cc": "sar",
+    "name": "Saudi riyal",
+    "symbol": "SR"
+  },
+  {
+    "cc": "sek",
+    "name": "Swedish krona",
+    "symbol": "kr"
+  },
+  {
+    "cc": "sgd",
+    "name": "Singapore dollar",
+    "symbol": "S$"
+  },
+  {
+    "cc": "thb",
+    "name": "Thai baht",
+    "symbol": "฿"
+  },
+  {
+    "cc": "twd",
+    "name": "New Taiwan dollar",
+    "symbol": "NT$"
+  },
+  {
+    "cc": "uah",
+    "name": "Ukrainian hryvnia",
+    "symbol": "UAH"
+  },
+  {
+    "cc": "vnd",
+    "name": "Vietnamese dong",
+    "symbol": "₫"
+  },
+  {
+    "cc": "zar",
+    "name": "South African rand",
+    "symbol": "R"
+  }
+]
